@@ -1,0 +1,389 @@
+2016-09-09 9:50:28 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/amima/amima_alika_linen_brown-40x40.jpg): failed to open stream: Permission denied in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-09 9:50:28 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/amima/amima_alodita_rope_maroon-40x40.jpg): failed to open stream: Permission denied in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-09 9:50:28 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-40x40.jpg): failed to open stream: Permission denied in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-09 9:50:28 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_tropica_banana-40x40.jpg): failed to open stream: Permission denied in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-09 9:50:28 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/khadijah/khadijah_khimar_zahira_grey-40x40.jpg): failed to open stream: Permission denied in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-09 9:55:30 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/amima/amima_alika_linen_brown-40x40.jpg): failed to open stream: Permission denied in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-09 9:55:30 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/amima/amima_alodita_rope_maroon-40x40.jpg): failed to open stream: Permission denied in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-09 9:55:30 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-40x40.jpg): failed to open stream: Permission denied in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-09 9:55:30 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_tropica_banana-40x40.jpg): failed to open stream: Permission denied in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-09 9:55:30 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/khadijah/khadijah_khimar_zahira_grey-40x40.jpg): failed to open stream: Permission denied in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-09 14:21:32 - PHP Notice:  Error: Could not load model /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/localisation/city.php! in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/engine/loader.php on line 63
+2016-09-09 15:28:52 - PHP Notice:  Undefined index: fax in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 4
+2016-09-09 15:28:52 - PHP Notice:  Undefined index: newsletter in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 4
+2016-09-09 15:28:52 - PHP Notice:  Undefined index: password in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 4
+2016-09-09 15:28:52 - PHP Notice:  Undefined index: approved in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 4
+2016-09-09 15:28:52 - PHP Notice:  Undefined index: safe in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 4
+2016-09-09 15:28:52 - PHP Notice:  Undefined index: company in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 10
+2016-09-09 15:31:32 - PHP Notice:  Undefined index: company in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/customer/customer_form.tpl on line 363
+2016-09-09 15:31:32 - PHP Notice:  Undefined variable: zones in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/customer/customer_form.tpl on line 404
+2016-09-09 15:31:32 - PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/customer/customer_form.tpl on line 404
+2016-09-09 15:33:14 - PHP Notice:  Undefined index: fax in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 4
+2016-09-09 15:33:14 - PHP Notice:  Undefined index: newsletter in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 4
+2016-09-09 15:33:14 - PHP Notice:  Undefined index: password in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 4
+2016-09-09 15:33:14 - PHP Notice:  Undefined index: approved in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 4
+2016-09-09 15:33:14 - PHP Notice:  Undefined index: safe in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/customer/customer.php on line 4
+2016-09-09 17:49:36 - PHP Notice:  Error: Could not load model /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/model/shipping/jnereg.php! in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/engine/loader.php on line 63
+2016-09-09 17:50:00 - PHP Notice:  Error: Could not load model /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/model/shipping/jnereg.php! in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/engine/loader.php on line 63
+2016-09-09 17:50:29 - PHP Notice:  Error: Could not load model /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/model/shipping/jnereg.php! in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/engine/loader.php on line 63
+2016-09-11 15:36:43 - PHP Notice:  Error: Could not load model /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/model/shipping/jneyes.php! in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/engine/loader.php on line 63
+2016-09-11 15:36:48 - PHP Notice:  Error: Could not load model /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/model/shipping/jneyes.php! in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/engine/loader.php on line 63
+2016-09-12 20:19:41 - PHP Notice:  Error: Could not load model /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/model/payment/free_checkout.php! in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/engine/loader.php on line 63
+2016-09-12 20:19:59 - PHP Notice:  Error: Could not load model /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/model/payment/free_checkout.php! in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/engine/loader.php on line 63
+2016-09-15 10:18:22 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_mint-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:23 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_mint_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:23 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:23 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:23 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_tropica_banana-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:23 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_tropica_banana_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:31 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_mint-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:31 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_mint_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:31 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:31 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:31 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_tropica_banana-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:18:31 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_tropica_banana_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:22:46 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/amima/amima_alika_linen_brown-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:22:46 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/amima/amima_alika_linen_brown_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:22:46 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/amima/amima_alodita_rope_maroon-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:22:46 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/amima/amima_alodita_rope_maroon_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:23:21 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_mint-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:23:21 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_mint_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:23:21 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:23:21 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:23:21 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_tropica_banana-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:23:21 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_tropica_banana_1-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:23:41 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/khadijah/khadijah_khimar_zahira_grey-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:27:33 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_tropica_banana-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:33:42 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:34:38 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-200x200.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:35:58 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-150x150.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:36:09 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-150x150.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:48:42 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-150x150.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:48:50 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-150x150.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 10:59:47 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism/greenism_cordoba_summer_pink-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 11:00:16 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/myhijab/image/cache/catalog/product/greenism_cordoba_tropica_banana-100x100.jpg): failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/image.php on line 64
+2016-09-15 21:24:40 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '::1', forwarded_ip = '', user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10' at line 1<br />Error No: 1064<br />INSERT INTO `order` SET invoice_prefix = 'MYB-2016-00', store_id = '0', store_name = 'Myhijab Boutique', store_url = 'http://localhost/myhijab/', customer_id = '1', customer_group_id = '1', firstname = 'Bambang', lastname = 'Handoko', email = 'bambang.handoko12@gmail.com', telephone = '08116111650', fax = '', custom_field = '[]', payment_firstname = 'Bambang', payment_lastname = 'Handoko', payment_company = '', payment_address_1 = 'Medan', payment_address_2 = '', payment_city = '6302', payment_postcode = '', payment_country = 'Sumatera Utara', payment_country_id = '34', payment_zone = 'Kota Medan', payment_zone_id = '482', payment_address_format = '', payment_custom_field = '[]', payment_method = 'Transfer via Bank BCA', payment_code = 'bank_bca', shipping_firstname = 'Bambang', shipping_lastname = 'Handoko', shipping_company = '', shipping_address_1 = 'Medan', shipping_address_2 = '', shipping_city = '6302', shipping_postcode = '', shipping_country = 'Sumatera Utara', shipping_country_id = '34', shipping_zone = 'Kota Medan', shipping_zone_id = '482', shipping_address_format = '', shipping_custom_field = '[]', shipping_method = '<span class=\"shipping\"><img src=\"image/shipping/jne.png\" alt=\"\" width=\"80\" height=\"40\"/><b>JNE Yes</b></span>', shipping_code = 'jneyes.jneyes', comment = '', total = '144000', affiliate_id = '0', commission = '0', marketing_id = '0', tracking = '', language_id = '2', currency_id = '5', currency_code = 'IDR', currency_value = '1', random_code = '86, ip = '::1', forwarded_ip = '', user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36', accept_language = 'en-US,en;q=0.8,id;q=0.6', date_added = NOW(), date_modified = NOW() in /Applications/XAMPP/xamppfiles/htdocs/myhijab/system/library/db/mysqli.php on line 41
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:31:58 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:35:11 - PHP Notice:  Undefined index: random_code in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 168
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:54:47 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Undefined variable: query in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:19 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:55:52 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 21:56:33 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:02:00 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:02 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:11 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:27 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:35 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:04:38 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/model/sale/order.php on line 410
+2016-09-15 22:12:28 - PHP Notice:  Undefined variable: result in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 1024
+2016-09-15 22:12:28 - PHP Notice:  Undefined variable: result in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 1024
+2016-09-15 22:12:28 - PHP Notice:  Undefined variable: result in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/controller/sale/order.php on line 1024
+2016-09-15 23:44:08 - PHP Notice:  Array to string conversion in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 187
+2016-09-15 23:44:41 - PHP Notice:  Array to string conversion in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 187
+2016-09-15 23:50:54 - PHP Notice:  Undefined index: random in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 187
+2016-09-18 16:58:12 - PHP Notice:  Undefined index: token in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 348
+2016-09-18 16:58:12 - PHP Notice:  Undefined variable: url in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 348
+2016-09-18 16:58:19 - PHP Notice:  Undefined index: token in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 348
+2016-09-18 16:58:19 - PHP Notice:  Undefined variable: url in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 348
+2016-09-19 0:39:29 - PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 358
+2016-09-19 0:39:29 - PHP Notice:  Undefined variable: url in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 358
+2016-09-19 0:40:08 - PHP Notice:  Undefined index: token in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 358
+2016-09-19 0:40:08 - PHP Notice:  Undefined variable: url in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 358
+2016-09-19 0:41:31 - PHP Notice:  Undefined index: token in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 358
+2016-09-19 0:41:31 - PHP Notice:  Undefined variable: url in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 358
+2016-09-19 0:41:44 - PHP Notice:  Undefined index: token in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 358
+2016-09-19 0:41:44 - PHP Notice:  Undefined variable: url in /Applications/XAMPP/xamppfiles/htdocs/myhijab/catalog/controller/api/order.php on line 358
+2016-09-19 3:57:19 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 92
+2016-09-19 4:00:44 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 92
+2016-09-19 4:00:44 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 94
+2016-09-19 12:45:22 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 92
+2016-09-19 12:45:23 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 94
+2016-09-29 8:51:33 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 92
+2016-09-29 8:51:33 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 94
+2016-09-29 8:51:34 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 92
+2016-09-29 8:51:34 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 94
+2016-09-29 8:55:24 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 92
+2016-09-29 8:55:24 - PHP Notice:  Undefined variable: airwaybill_no in /Applications/XAMPP/xamppfiles/htdocs/myhijab/admin/view/template/sale/order_info.tpl on line 94
+2016-12-20 13:24:38 - PHP Notice:  Undefined variable: column_capital_price in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 101
+2016-12-20 13:54:03 - PHP Notice:  Undefined variable: column_profit in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 111
+2016-12-21 11:56:03 - PHP Notice:  Undefined variable: quantity_xs in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_form.tpl on line 192
+2016-12-21 12:03:46 - PHP Notice:  Undefined variable: quantity_xl in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_form.tpl on line 210
+2016-12-21 12:03:46 - PHP Notice:  Undefined variable: quantity_xxl in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_form.tpl on line 216
+2016-12-21 12:05:21 - PHP Notice:  Undefined variable: quantity_xs in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_form.tpl on line 192
+2016-12-21 12:34:04 - PHP Notice:  Undefined index: quantity_xs in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 930
+2016-12-21 12:34:04 - PHP Notice:  Undefined index: quantity_small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 938
+2016-12-21 12:34:04 - PHP Notice:  Undefined index: quantity_medium in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 946
+2016-12-21 12:34:04 - PHP Notice:  Undefined index: quantity_xl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 954
+2016-12-21 12:34:04 - PHP Notice:  Undefined index: quantity_xxl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 962
+2016-12-21 12:57:34 - PHP Notice:  Undefined index: quantity_xs in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 930
+2016-12-21 12:57:34 - PHP Notice:  Undefined index: quantity_small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 938
+2016-12-21 12:57:34 - PHP Notice:  Undefined index: quantity_medium in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 946
+2016-12-21 12:57:34 - PHP Notice:  Undefined index: quantity_xl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 954
+2016-12-21 12:57:34 - PHP Notice:  Undefined index: quantity_xxl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 962
+2016-12-21 12:57:47 - PHP Notice:  Undefined index: quantity_xs in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 930
+2016-12-21 12:57:47 - PHP Notice:  Undefined index: quantity_small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 938
+2016-12-21 12:57:47 - PHP Notice:  Undefined index: quantity_medium in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 946
+2016-12-21 12:57:47 - PHP Notice:  Undefined index: quantity_xl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 954
+2016-12-21 12:57:47 - PHP Notice:  Undefined index: quantity_xxl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 962
+2016-12-21 13:09:45 - PHP Notice:  Undefined index: extra_small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 932
+2016-12-21 13:09:45 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 940
+2016-12-21 13:09:45 - PHP Notice:  Undefined index: medium in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 948
+2016-12-21 13:09:45 - PHP Notice:  Undefined index: quantity_xl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 956
+2016-12-21 13:09:45 - PHP Notice:  Undefined index: quantity_xxl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 964
+2016-12-21 13:12:16 - PHP Notice:  Undefined variable: product_size in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 9
+2016-12-21 13:12:38 - PHP Notice:  Undefined variable: product_size in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 9
+2016-12-21 13:19:51 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 389
+2016-12-21 13:19:51 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 390
+2016-12-21 13:20:21 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 390
+2016-12-21 13:20:39 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 390
+2016-12-21 13:23:51 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 390
+2016-12-21 13:24:22 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 390
+2016-12-21 13:24:35 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 390
+2016-12-21 13:27:32 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 391
+2016-12-21 13:27:32 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 9
+2016-12-21 13:28:26 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 391
+2016-12-21 13:28:26 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 9
+2016-12-21 13:28:26 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 12
+2016-12-21 13:28:44 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 391
+2016-12-21 13:28:44 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 9
+2016-12-21 13:29:14 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 391
+2016-12-21 13:29:14 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 9
+2016-12-21 13:29:30 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 391
+2016-12-21 13:29:44 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 391
+2016-12-21 13:35:45 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 9
+2016-12-21 13:36:19 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 390
+2016-12-21 13:39:31 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 390
+2016-12-21 13:39:36 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 390
+2016-12-21 13:42:59 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 11
+2016-12-21 13:43:17 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 11
+2016-12-21 13:46:10 - PHP Warning:  Illegal string offset 'small' in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:10 - PHP Warning:  Illegal string offset 'small' in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:10 - PHP Warning:  Illegal string offset 'small' in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:10 - PHP Warning:  Illegal string offset 'small' in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:10 - PHP Warning:  Illegal string offset 'small' in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:10 - PHP Warning:  Illegal string offset 'small' in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:10 - PHP Warning:  Illegal string offset 'small' in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:35 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:35 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:35 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:35 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:35 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:35 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:46:35 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 13
+2016-12-21 13:54:27 - PHP Notice:  Undefined index: double_extra_small in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 164
+2016-12-21 13:57:30 - PHP Notice:  Undefined variable: result in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 344
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: extra_small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: medium in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: extra_large in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: double_extra_small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: extra_small in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 159
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 160
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: medium in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 161
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: large in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 162
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: extra_large in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 163
+2016-12-21 13:57:30 - PHP Notice:  Undefined index: double_extra_large in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 164
+2016-12-21 13:58:17 - PHP Notice:  Undefined variable: result in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 344
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: extra_small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: medium in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: extra_large in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: double_extra_small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: extra_small in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 159
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 160
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: medium in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 161
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: large in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 162
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: extra_large in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 163
+2016-12-21 13:58:17 - PHP Notice:  Undefined index: double_extra_large in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 164
+2016-12-21 13:58:26 - PHP Notice:  Undefined variable: result in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 344
+2016-12-21 13:58:26 - PHP Notice:  Undefined index: extra_small in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 159
+2016-12-21 13:58:26 - PHP Notice:  Undefined index: small in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 160
+2016-12-21 13:58:26 - PHP Notice:  Undefined index: medium in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 161
+2016-12-21 13:58:26 - PHP Notice:  Undefined index: large in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 162
+2016-12-21 13:58:26 - PHP Notice:  Undefined index: extra_large in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 163
+2016-12-21 13:58:26 - PHP Notice:  Undefined index: double_extra_large in C:\xampp\htdocs\myhijab\admin\view\template\catalog\product_list.tpl on line 164
+2016-12-21 13:59:17 - PHP Notice:  Undefined index: double_extra_small in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 387
+2016-12-21 14:00:38 - PHP Notice:  Undefined variable: product_size in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 934
+2016-12-21 14:00:38 - PHP Notice:  Undefined variable: product_size in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 942
+2016-12-21 14:00:38 - PHP Notice:  Undefined variable: product_size in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 950
+2016-12-21 14:00:38 - PHP Notice:  Undefined index: quantity_xl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 958
+2016-12-21 14:00:38 - PHP Notice:  Undefined index: quantity_xxl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 966
+2016-12-21 14:05:03 - PHP Notice:  Undefined index: quantity_xl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 961
+2016-12-21 14:05:03 - PHP Notice:  Undefined index: quantity_xxl in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 969
+2016-12-21 14:12:20 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 923
+2016-12-21 14:17:20 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 923
+2016-12-21 14:17:55 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 923
+2016-12-21 14:18:24 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\myhijab\admin\controller\catalog\product.php on line 923
